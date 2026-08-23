@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rudranxh2007/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Rudranxh2007/DSA/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rudranxh2007/DSA/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Rudranxh2007/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
