@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Rudranxh2007/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rudranxh2007/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rudranxh2007/DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Rudranxh2007/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rudranxh2007/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Rudranxh2007/DSA/tree/master/0090-subsets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rudranxh2007/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Rudranxh2007/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rudranxh2007/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rudranxh2007/DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Rudranxh2007/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rudranxh2007/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Rudranxh2007/DSA/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/Rudranxh2007/DSA/tree/master/0090-subsets-ii) |
