@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rudranxh2007/DSA/tree/master/0148-sort-list) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudranxh2007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Rudranxh2007/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rudranxh2007/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Rudranxh2007/DSA/tree/master/0090-subsets-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudranxh2007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rudranxh2007/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
 |  |
@@ -92,4 +94,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rudranxh2007/DSA/tree/master/0037-sudoku-solver) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudranxh2007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudranxh2007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudranxh2007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rudranxh2007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
