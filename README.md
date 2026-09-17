@@ -110,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudranxh2007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Rudranxh2007/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Rudranxh2007/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Rudranxh2007/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
