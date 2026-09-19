@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Rudranxh2007/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rudranxh2007/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Rudranxh2007/DSA/tree/master/0090-subsets-ii) |
+| [0875-koko-eating-bananas](https://github.com/Rudranxh2007/DSA/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudranxh2007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rudranxh2007/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/Rudranxh2007/DSA/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudranxh2007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
