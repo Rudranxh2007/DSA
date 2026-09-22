@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rudranxh2007/DSA/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Rudranxh2007/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rudranxh2007/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Rudranxh2007/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rudranxh2007/DSA/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Rudranxh2007/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Rudranxh2007/DSA/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Rudranxh2007/DSA/tree/master/0224-basic-calculator) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rudranxh2007/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Rudranxh2007/DSA/tree/master/0012-integer-to-roman) |
 | [0224-basic-calculator](https://github.com/Rudranxh2007/DSA/tree/master/0224-basic-calculator) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudranxh2007/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudranxh2007/DSA/tree/master/3498-reverse-degree-of-a-string) |
