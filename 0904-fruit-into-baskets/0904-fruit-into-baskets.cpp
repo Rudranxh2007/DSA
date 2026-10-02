@@ -5,7 +5,7 @@ public:
         map<int,int>s;
         while(r<fruits.size()){
             s[fruits[r]]++;
-            while(s.size()>2){
+            if(s.size()>2){
                 s[fruits[l]]--;
 
                 if(s[fruits[l]] == 0)
