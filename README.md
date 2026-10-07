@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rudranxh2007/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Rudranxh2007/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rudranxh2007/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Rudranxh2007/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Rudranxh2007/DSA/tree/master/0148-sort-list) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Rudranxh2007/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rudranxh2007/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rudranxh2007/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Rudranxh2007/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Rudranxh2007/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rudranxh2007/DSA/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/Rudranxh2007/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rudranxh2007/DSA/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/Rudranxh2007/DSA/tree/master/0224-basic-calculator) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudranxh2007/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rudranxh2007/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Rudranxh2007/DSA/tree/master/0042-trapping-rain-water) |
 ## Manacher
 |  |
 | ------- |
@@ -176,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudranxh2007/DSA/tree/master/3498-reverse-degree-of-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rudranxh2007/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
