@@ -9,9 +9,9 @@ public:
               sum-=nums[l];
                l++;
             }
-            if(sum<=goal){
+           
                 count+=(r-l+1);
-            }
+            
             r++;
         }
         return count;
