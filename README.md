@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rudranxh2007/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rudranxh2007/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Rudranxh2007/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Rudranxh2007/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Rudranxh2007/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rudranxh2007/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudranxh2007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Rudranxh2007/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rudranxh2007/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudranxh2007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/Rudranxh2007/DSA/tree/master/0567-permutation-in-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rudranxh2007/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rudranxh2007/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rudranxh2007/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rudranxh2007/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Rudranxh2007/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Rudranxh2007/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Rudranxh2007/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Rudranxh2007/DSA/tree/master/0904-fruit-into-baskets) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rudranxh2007/DSA/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/Rudranxh2007/DSA/tree/master/0224-basic-calculator) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rudranxh2007/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Rudranxh2007/DSA/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudranxh2007/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rudranxh2007/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudranxh2007/DSA/tree/master/3498-reverse-degree-of-a-string) |
