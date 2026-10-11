@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Rudranxh2007/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rudranxh2007/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rudranxh2007/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rudranxh2007/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Rudranxh2007/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Rudranxh2007/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Rudranxh2007/DSA/tree/master/0904-fruit-into-baskets) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rudranxh2007/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rudranxh2007/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rudranxh2007/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rudranxh2007/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rudranxh2007/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Rudranxh2007/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Rudranxh2007/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rudranxh2007/DSA/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/Rudranxh2007/DSA/tree/master/0224-basic-calculator) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rudranxh2007/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rudranxh2007/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rudranxh2007/DSA/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudranxh2007/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rudranxh2007/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
