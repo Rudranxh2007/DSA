@@ -10,9 +10,7 @@ public:
                 if(mp[fruits[l]]==0) mp.erase(fruits[l]);
                 l++;
             }
-           
-                maxlen=max(maxlen,r-l+1);
-            
+            maxlen=max(maxlen,r-l+1);
             r++;
         }
         return maxlen;
