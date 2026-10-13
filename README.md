@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rudranxh2007/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudranxh2007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Rudranxh2007/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Rudranxh2007/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rudranxh2007/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rudranxh2007/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Rudranxh2007/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rudranxh2007/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rudranxh2007/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudranxh2007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Rudranxh2007/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rudranxh2007/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Rudranxh2007/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
@@ -239,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rudranxh2007/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Rudranxh2007/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Rudranxh2007/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
