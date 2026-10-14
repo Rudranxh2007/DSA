@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Rudranxh2007/DSA/tree/master/0390-elimination-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudranxh2007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Rudranxh2007/DSA/tree/master/1922-count-good-numbers) |
+| [2063-vowels-of-all-substrings](https://github.com/Rudranxh2007/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [3870-count-commas-in-range](https://github.com/Rudranxh2007/DSA/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Rudranxh2007/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rudranxh2007/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rudranxh2007/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2063-vowels-of-all-substrings](https://github.com/Rudranxh2007/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudranxh2007/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rudranxh2007/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Rudranxh2007/DSA/tree/master/0042-trapping-rain-water) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rudranxh2007/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2063-vowels-of-all-substrings](https://github.com/Rudranxh2007/DSA/tree/master/2063-vowels-of-all-substrings) |
 ## Manacher
 |  |
 | ------- |
@@ -252,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Rudranxh2007/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/Rudranxh2007/DSA/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
