@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rudranxh2007/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rudranxh2007/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudranxh2007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1991-find-the-middle-index-in-array](https://github.com/Rudranxh2007/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Rudranxh2007/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Rudranxh2007/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rudranxh2007/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Rudranxh2007/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudranxh2007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudranxh2007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1991-find-the-middle-index-in-array](https://github.com/Rudranxh2007/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## String
 |  |
 | ------- |
