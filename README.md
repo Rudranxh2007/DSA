@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudranxh2007/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Rudranxh2007/DSA/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Rudranxh2007/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Rudranxh2007/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rudranxh2007/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Rudranxh2007/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudranxh2007/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Rudranxh2007/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Rudranxh2007/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rudranxh2007/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rudranxh2007/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudranxh2007/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Rudranxh2007/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Rudranxh2007/DSA/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Rudranxh2007/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Rudranxh2007/DSA/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/Rudranxh2007/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Rudranxh2007/DSA/tree/master/0242-valid-anagram) |
