@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rudranxh2007/DSA/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Rudranxh2007/DSA/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Rudranxh2007/DSA/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/Rudranxh2007/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rudranxh2007/DSA/tree/master/0503-next-greater-element-ii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Rudranxh2007/DSA/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Rudranxh2007/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Rudranxh2007/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
