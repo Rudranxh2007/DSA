@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Rudranxh2007/DSA/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Rudranxh2007/DSA/tree/master/0224-basic-calculator) |
 | [0390-elimination-game](https://github.com/Rudranxh2007/DSA/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/Rudranxh2007/DSA/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/Rudranxh2007/DSA/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rudranxh2007/DSA/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/Rudranxh2007/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Rudranxh2007/DSA/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/Rudranxh2007/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rudranxh2007/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rudranxh2007/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rudranxh2007/DSA/tree/master/0567-permutation-in-string) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rudranxh2007/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Rudranxh2007/DSA/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Rudranxh2007/DSA/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/Rudranxh2007/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Rudranxh2007/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rudranxh2007/DSA/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudranxh2007/DSA/tree/master/1021-remove-outermost-parentheses) |
