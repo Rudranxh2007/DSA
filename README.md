@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rudranxh2007/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudranxh2007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rudranxh2007/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rudranxh2007/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Rudranxh2007/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Rudranxh2007/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rudranxh2007/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rudranxh2007/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rudranxh2007/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudranxh2007/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rudranxh2007/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rudranxh2007/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rudranxh2007/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rudranxh2007/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rudranxh2007/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Enumeration
 |  |
 | ------- |
