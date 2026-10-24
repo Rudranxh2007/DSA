@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rudranxh2007/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rudranxh2007/DSA/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudranxh2007/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rudranxh2007/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rudranxh2007/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rudranxh2007/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2063-vowels-of-all-substrings](https://github.com/Rudranxh2007/DSA/tree/master/2063-vowels-of-all-substrings) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rudranxh2007/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rudranxh2007/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Rudranxh2007/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rudranxh2007/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rudranxh2007/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
