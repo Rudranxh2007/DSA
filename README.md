@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Rudranxh2007/DSA/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rudranxh2007/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rudranxh2007/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rudranxh2007/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Rudranxh2007/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Rudranxh2007/DSA/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Rudranxh2007/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Rudranxh2007/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rudranxh2007/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rudranxh2007/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rudranxh2007/DSA/tree/master/0567-permutation-in-string) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Rudranxh2007/DSA/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Rudranxh2007/DSA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Rudranxh2007/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Rudranxh2007/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rudranxh2007/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rudranxh2007/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rudranxh2007/DSA/tree/master/0735-asteroid-collision) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rudranxh2007/DSA/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Rudranxh2007/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rudranxh2007/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rudranxh2007/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rudranxh2007/DSA/tree/master/0907-sum-of-subarray-minimums) |
