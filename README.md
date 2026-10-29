@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rudranxh2007/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rudranxh2007/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2063-vowels-of-all-substrings](https://github.com/Rudranxh2007/DSA/tree/master/2063-vowels-of-all-substrings) |
+| [2390-removing-stars-from-a-string](https://github.com/Rudranxh2007/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudranxh2007/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rudranxh2007/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rudranxh2007/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rudranxh2007/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/Rudranxh2007/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Rudranxh2007/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Rudranxh2007/DSA/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/Rudranxh2007/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudranxh2007/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
