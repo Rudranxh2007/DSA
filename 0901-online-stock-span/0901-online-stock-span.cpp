@@ -4,15 +4,16 @@ public:
         int idx;
     StockSpanner() {
         while(!st.empty()) st.pop();
-        idx=-1;
+        idx=0;
     }
     
     int next(int price) {
         int ans;
-        idx=idx+1;
+        
         while(!st.empty() && st.top().second<=price) st.pop();
         ans=st.empty()?idx+1:idx-st.top().first;
         st.push({idx,price});
+        idx++;
         return ans;
     }
 };
